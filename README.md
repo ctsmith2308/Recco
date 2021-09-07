@@ -1,6 +1,4 @@
-# FE-starter-template
-
-FE non-CRA starter template with TypeScript, Tailwind, Mocha-Chai and Webpack.
+# Recco
 
 # Getting Started
 
